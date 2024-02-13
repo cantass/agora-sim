@@ -1,0 +1,1 @@
+var swiper=new Swiper(".swiper",{effect:"cards",grabCursor:!0,initialSlide:2,speed:500,loop:!0,rotate:!0,mousewheel:{invert:!1}});function irParaYouTube(){window.location.href="https://youtu.be/TJRIZS4Z7Mw"}
